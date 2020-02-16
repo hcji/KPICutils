@@ -1,0 +1,5 @@
+exportPattern("loadData",
+              "getPIC",
+              "getPeaks")
+importFrom(Rcpp, evalCpp)
+useDynLib(KPICutils)

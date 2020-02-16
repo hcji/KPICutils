@@ -1,0 +1,12 @@
+Package: KPICutils
+Type: Package
+Title: KPICutils
+Version: 2.4.0
+Author: Hongchao Ji
+Maintainer: Hongchao Ji <ji.hongchao@foxmail.com>
+Description: KPICutils
+License: GPL (>= 2)
+Encoding: UTF-8
+LazyData: true
+Imports: Rcpp, RcppArmadillo, mzR
+LinkingTo: Rcpp, RcppArmadillo
